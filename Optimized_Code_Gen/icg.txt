@@ -1,0 +1,15 @@
+a = 3
+b = 2
+T1 = 3 - 2
+c = T1
+a = 20
+T2 = a < 25
+L1:
+if T2 go to L2
+go to L3
+L2:
+m = 15
+go to L1
+L3:
+T3 = 3 * a
+k = T3

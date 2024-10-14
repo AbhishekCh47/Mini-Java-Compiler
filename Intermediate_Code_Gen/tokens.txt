@@ -1,0 +1,112 @@
+Keyword : public
+Keyword : class
+Identifier : a
+Brackets : {
+Keyword : public
+Keyword : static
+Keyword : void
+Keyword : main
+Brackets : (
+Keyword : String
+Brackets : [
+Brackets : ]
+Keyword : args
+Brackets : )
+Brackets : {
+Keyword : int
+Identifier : a
+Assignment operator : =
+NUM : 3
+comma : ,
+Identifier : b
+Assignment operator : =
+NUM : 2
+comma : ,
+Identifier : c
+Assignment operator : =
+NUM : 1
+comma : ,
+Identifier : d
+Assignment operator : =
+NUM : 0
+semi-colon : ;
+Keyword : for
+Brackets : (
+Identifier : a
+Assignment operator : =
+NUM : 20
+semi-colon : ;
+Identifier : a
+Comparison operator : <
+Keyword : public
+Keyword : class
+Identifier : a
+Brackets : {
+Keyword : public
+Keyword : static
+Keyword : void
+Keyword : main
+Brackets : (
+Keyword : String
+Brackets : [
+Brackets : ]
+Keyword : args
+Brackets : )
+Brackets : {
+Keyword : int
+Identifier : a
+Assignment operator : =
+NUM : 3
+comma : ,
+Identifier : b
+Assignment operator : =
+NUM : 2
+comma : ,
+Identifier : c
+Assignment operator : =
+NUM : 1
+comma : ,
+Identifier : d
+Assignment operator : =
+NUM : 0
+semi-colon : ;
+Keyword : for
+Brackets : (
+Identifier : a
+Assignment operator : =
+NUM : 20
+semi-colon : ;
+Identifier : a
+Comparison operator : <
+NUM : 25
+semi-colon : ;
+Identifier : a
+Unary operator : ++
+Brackets : )
+Brackets : {
+Keyword : int
+Identifier : m
+Assignment operator : =
+NUM : 15
+semi-colon : ;
+Brackets : }
+Keyword : int
+Identifier : k
+Assignment operator : =
+NUM : 3
+Arithmetic operator : *
+Identifier : a
+semi-colon : ;
+Keyword : if
+Brackets : (
+Identifier : a
+Brackets : )
+Brackets : {
+Keyword : int
+Identifier : j
+Assignment operator : =
+NUM : 1
+semi-colon : ;
+Brackets : }
+Brackets : }
+Brackets : }
