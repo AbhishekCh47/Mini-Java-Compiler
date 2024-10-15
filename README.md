@@ -107,7 +107,7 @@ CLASS DECLARATION
 - **Lex File (`parser.l`)**: Contains rules for generating tokens from the Java source code, such as identifiers, keywords, operators, etc.
 - **Yacc File (`parser.y`)**: Defines grammar rules for Java constructs, including variable declarations, assignments, loops, and conditionals.
 - **Python Script (`target_code.py`)**: Converts optimized intermediate code into MIPS assembly code.
-- **Optimization Script (`optimize.py`)**: Applies constant folding, dead code elimination, and subexpression elimination to optimize the intermediate code.
+- **Optimization Script (`optimize.py`)**: Applies constant folding, dead code elimination, and subexpression elimination to optimize the intermediate code
 - **Input Java Program (`a.java`)**: A sample Java program with `if-else` and `for` constructs, used for testing the compiler.
 
 ## How to Run
